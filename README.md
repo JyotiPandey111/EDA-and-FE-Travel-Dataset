@@ -29,3 +29,18 @@ This repository holds EDA and FE on 'Travel' dataset. This is task given in FSDS
  ####        
 - LinkedIn: https://www.linkedin.com/in/km-jyoti-pandey/
 - GitHub: https://github.com/JyotiPandey111
+
+
+# Handling Missing Values in 'Travel' Dataset by Jyoti Pandey
+- **Fixing Data based on Rows**
+- **Fixing Data based on Columns**
+- When dealing with missing data, data scientists can use two primary methods to solve the error: imputation or the removal of data.
+- The imputation method develops reasonable guesses for missing data. It’s most useful when the percentage of missing data is low. If the portion of missing data is too high, the results lack natural variation that could result in an effective model.
+- The other option is to remove data. When dealing with data that is missing at random, related data can be deleted to reduce bias. Removing data may not be the best option if there are not enough observations to result in a reliable analysis. In some situations, observation of specific events or factors may be required.
+- Before deciding which approach to employ, data scientists must understand why the data is missing.
+
+
+**Reference**
+- 2022 Python for Machine Learning and Data science Masterclass Course by Jose Portilla on Udemy
+- https://www.mastersindatascience.org/learning/how-to-deal-with-missing-data/
+- https://www.analyticsvidhya.com/blog/2021/04/how-to-handle-missing-values-of-categorical-variables/
