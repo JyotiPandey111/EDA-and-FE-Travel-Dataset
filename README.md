@@ -4,7 +4,7 @@ This repository holds EDA and FE on 'Travel' dataset. This is task given in FSDS
 ## In this Task:
 ## **Exploratory Data Analysis before Pre-Processing**
   - **1. Profile of Data**
-         1.1 Number of Rows and Columns in Dataset
+        1.1 Number of Rows and Columns in Dataset
          1.2 Types of Features in Dataset
          1.3 Level of Measurements in Dataset
          1.4 Missing Values in Dataset
