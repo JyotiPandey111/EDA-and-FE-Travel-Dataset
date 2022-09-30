@@ -1,3 +1,12 @@
+# More Pre-Processing steps are yet to be done. Work in Progress.
+- Upcoming files (not in particular order):
+  - Handling Outliers
+  - Handling Imbalance Data
+  - Handling Skewed data
+  - Handling Incorrect values
+  - Feature Selection
+  - Handling Categorical data encoding
+
 # EDA-and-FE
 This repository holds EDA and FE on 'Travel' dataset. This is task given in FSDS 2022 at iNeuron.
 # Exploratory Data Analysis and Feature Engineering Task in FSDS 2022 at iNeuron
